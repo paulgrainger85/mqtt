@@ -1,4 +1,4 @@
-#/bin/bash
+#/bin/sh
 
 mkdir /source/mqtt/cmake
 cd  /source/mqtt/cmake
@@ -8,5 +8,5 @@ make install
 cd mqtt
 ./install.sh
 
-/bin/bash
+/bin/sh
 
